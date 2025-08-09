@@ -28,6 +28,6 @@ The following images illustrate the output of the analysis scripts.
 
 Single-Frame Analysis: A detailed report for a single image, showing the detected beam spot, extracted intensity profiles with Gaussian fits, and a summary of calculated parameters.
 
-![Пример детального анализа одного снимка пучка](spool 0.001_10_Spooled files_analysis.jpg)
+![stage1](spool 0.001_10_Spooled files_analysis.jpg)
 
 Evolutionary Analysis: A summary plot showing the change in the beam spot's position and size (FWHM) over a series of 100 images. This visualization is crucial for understanding long-term stability.
